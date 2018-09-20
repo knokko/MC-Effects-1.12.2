@@ -1,0 +1,16 @@
+[
+{
+  "modid": "knokkoeffects",
+  "name": "Effects",
+  "description": "Private mod with some funny effects",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["knokko"],
+  "credits": "No special credits",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
